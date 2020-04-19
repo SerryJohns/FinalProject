@@ -1,0 +1,4 @@
+<resources>
+    <string name="msg_no_joke_found">No Joke found!</string>
+    <string name="joke_category">%1$s joke!</string>
+</resources>
